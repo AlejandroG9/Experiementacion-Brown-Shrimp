@@ -1,4 +1,6 @@
 import os
+
+import numpy as np
 from joblib import dump, load
 from torch.utils.data import Dataset
 from Metodos.ProcesadorDeDatos import *

@@ -1,0 +1,6 @@
+# The Statistics V5 dataset is NOT public (INAPESCA data-use authorisation)
+Estadisticas V5.csv
+*.xlsx
+piloto.csv
+.venv/
+__pycache__/
